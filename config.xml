@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "site.girls-nsk.nsk"
+        id          = "mobi.girls-nsk.top"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>nsk.girls-nsk.site</name>
+    <name>Girls-Nsk</name>
 
     <description>
         Новосибирск
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/bbdc34bbeebca391a8a3f353d34ce63d.png" density="ldpi" />
-        <icon src="res/android/icon/b859480c67121aea687301667f4c5142.png" density="mdpi" />
-        <icon src="res/android/icon/de30f9f36218554a5268e883f1b29da2.png" density="hdpi" />
-        <icon src="res/android/icon/240c6cd58dc2593f7228da5fdb39212f.png" density="xhdpi" />
-        <icon src="res/android/icon/c2dd74e59c782f7668b24c9925934b90.png" density="xxhdpi" />
-        <icon src="res/android/icon/dc74a8b2fa81a2480fa5eda9b63333e6.png" density="xxxhdpi" />
+        <icon src="res/android/icon/e4092f21b0c8f7e493439f102219d1d0.png" density="ldpi" />
+        <icon src="res/android/icon/30835fdf9a6bfe075dedc7bd7b397b88.png" density="mdpi" />
+        <icon src="res/android/icon/1611ad64b102c8c71e51a0abb4f5a999.png" density="hdpi" />
+        <icon src="res/android/icon/deb757003007ad86b080b9af41061683.png" density="xhdpi" />
+        <icon src="res/android/icon/3dc7b54b9f8bf62855d441f6dfd122dd.png" density="xxhdpi" />
+        <icon src="res/android/icon/9178d1f17d18b4ffc856b34ed9b6c365.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/0e8ac049f419a592d65a80a22c575571.png" density="port-hdpi"/>
         <splash src="res/android/screen/834e040f2fd98150b543709a2b37361c.png" density="port-ldpi"/>
